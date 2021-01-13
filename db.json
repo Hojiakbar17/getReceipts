@@ -1,4 +1,6 @@
-'data': [
-  {'id': 1, 'name': 'Ali'},
-  {'id': 2, 'name': 'Vali'}
-]
+{
+  'data': [
+    {'id': 1, 'name': 'Ali'},
+    {'id': 2, 'name': 'Vali'}
+  ]
+}
